@@ -9,7 +9,7 @@
 } 
 
 #positions-table .dropdown-toggle:empty:after {
-    margin-left: 3px;
+    margin-left: 2px;
 }
 .campaign {
     height: 267px;
